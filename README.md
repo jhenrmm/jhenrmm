@@ -1,4 +1,4 @@
- ## **Hello, my name is João Henrique Miranda Moraes**
+ ## **Hello, my name is João Henrique**
  - Nowadays im studying to become a Software Engineer
  - Basics in Python
  - Currently studying Java
