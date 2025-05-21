@@ -1,7 +1,6 @@
- ## **Hello, my name is João Henrique !**
- - Nowadays im studying to become a Software Engineer
- - Basics in Python
- - Currently studying Java
+ ## **Ola, meu nome é João Henrique !**
+ - Atualmente estou estudando a fim de me tornar um Engenheiro de Software
+ - Aprofundando meus conhecimentos no Java
 
 <div style= display: inline>
   <img height=140em src="https://github-readme-stats.vercel.app/api?username=jhenrmm&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
