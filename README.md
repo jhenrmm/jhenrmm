@@ -1,15 +1,21 @@
- ## **Ola, meu nome é João Henrique !**
- - Atualmente estou estudando a fim de me tornar um Engenheiro de Software
- - Aprofundando meus conhecimentos no Java
+# My name is João 🧑‍💻
 
-<div style= display: inline>
-  <img height=140em src="https://github-readme-stats.vercel.app/api?username=jhenrmm&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=140em src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenrmm&layout=compact&theme=dark#gh-dark-mode-only">
-</div>
-<div style="display: inline_block">
-  <img align=center height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align=center height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
+**`Backend Developer`**
+- Building clean, scalable and maintainable software solutions
+- Graduating in Software Engeneering
+- Passionate about tech and building real-world solutions
+- Always learning and developing my dev life and career, also dealing with challenges
 
----
+## 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,vscode)](https://skillicons.dev) 
+
+## 🌐 Socials:
+<div align="start"> 
+<a href = "mailto:jhenrmm@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/joão-miranda-4ab123321/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ </br>
+ 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhenrmm&theme=dark&layout=compact" />
           
