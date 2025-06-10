@@ -2,9 +2,9 @@
 
 **`Backend Developer`**
 - Building clean, scalable and maintainable software solutions
-- Graduating in Software Engeneering
+- Graduating in Software Engineering
 - Passionate about tech and building real-world solutions
-- Always learning and developing my dev life and career, also dealing with challenges
+- Always learning, developing my dev skills and dealing with challenges
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,vscode)](https://skillicons.dev) 
