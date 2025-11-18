@@ -7,7 +7,7 @@
 - Always learning, developing my dev skills and dealing with challenges
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,github,vscode)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,mysql,postgres,docker,git,github,vscode)](https://skillicons.dev) 
 
 ## 🌐 Socials:
 <div align="start"> 
